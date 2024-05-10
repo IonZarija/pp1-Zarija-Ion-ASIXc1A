@@ -1,0 +1,5 @@
+root - INFO - Inicio del procesamiento de palabras.
+root - ERROR - No es va trobar el arxiu paraules.txt per a la Tasca 1.
+root - ERROR - No es va trobar el arxiu paraules.txt per a la Tasca 2.
+root - INFO - Fin del procesamiento de palabras.
+root - INFO - El procesamiento de palabras tardó 0.000141143798828125 segundos.
